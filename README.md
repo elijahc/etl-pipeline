@@ -1,10 +1,10 @@
 # Pipeline
 
-[![Build Status](https://travis-ci.org/Integralist/Sinderella.png?branch=master)](https://travis-ci.org/Integralist/Sinderella) 
+[![Build Status](https://travis-ci.org/elijahc/pipeline.svg?branch=master)](https://travis-ci.org/elijahc/pipeline)
 
-[![Gem Version](https://badge.fury.io/rb/sinderella.png)](http://badge.fury.io/rb/sinderella)
+<!---[![Gem Version](https://badge.fury.io/rb/sinderella.png)](http://badge.fury.io/rb/sinderella) --->
 
-[![Coverage Status](https://coveralls.io/repos/Integralist/Sinderella/badge.png)](https://coveralls.io/r/Integralist/Sinderella)
+[![Coverage Status](https://coveralls.io/repos/elijahc/pipeline/badge.png)](https://coveralls.io/r/elijahc/pipeline)
 
 TODO: Write a gem description
 
