@@ -1,0 +1,15 @@
+language: ruby
+cache: bundler
+
+rvm:
+  - 2.0.0
+//  - jruby
+
+script: 'bundle exec rake'
+
+notifications:
+  email:
+    recipients:
+      - ejd.christensen@gmail.com
+    on_failure: change
+    on_success: never
