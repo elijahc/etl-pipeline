@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/elijahc/etl-pipeline.svg?branch=master)](https://travis-ci.org/elijahc/etl-pipeline)
 
-<!---[![Gem Version](https://badge.fury.io/rb/sinderella.png)](http://badge.fury.io/rb/sinderella) --->
+[![Gem Version](https://badge.fury.io/rb/etl-pipeline.svg)](http://badge.fury.io/rb/etl-pipeline)
 
 [![Coverage Status](https://coveralls.io/repos/elijahc/pipeline/badge.png)](https://coveralls.io/r/elijahc/pipeline)
 
