@@ -2,4 +2,8 @@ require 'coveralls'
 Coveralls.wear!
 
 require 'pry'
-require 'pipeline'
+require 'etl-pipeline'
+
+RSpec.configure do |config|
+  config.expect_with :rspec
+end

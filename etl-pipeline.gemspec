@@ -1,10 +1,10 @@
 # coding: utf-8
 lib = File.expand_path('../lib', __FILE__)
 $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
-require 'pipeline/version'
+require 'etl-pipeline/version'
 
 Gem::Specification.new do |spec|
-  spec.name          = "pipeline"
+  spec.name          = "etl-pipeline"
   spec.version       = Pipeline::VERSION
   spec.authors       = ["Elijah Christensen"]
   spec.email         = ["ejd.christensen@gmail.com"]
