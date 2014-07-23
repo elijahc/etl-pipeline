@@ -76,7 +76,7 @@ module Pipeline
     attr_accessor :parser, :importer
 
     def initialize
-      @parser   = Pipeline::Model::Parser
+      @parser   = Pipeline::Parser::Base
       @importer = Pipeline::Importer::Base
     end
 
