@@ -84,5 +84,9 @@ module Pipeline
       parser.parse *args
     end
 
+    def import *args
+      importer.import *args
+    end
+
   end
 end
